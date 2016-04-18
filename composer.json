@@ -3,6 +3,9 @@
         {
             "type": "composer",
             "url": "https://repo.magento.com/"
+        },{
+            "type": "composer",
+            "url": "http://magento2.satis.shopgo.io"
         }
     ],
     "require": {
